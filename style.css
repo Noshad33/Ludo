@@ -1,0 +1,25 @@
+
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+#image-container{
+    height: 250px;
+}
+img{
+    width: 200px;
+}
+.btn{
+    padding: 10px;
+    background-color: green;
+    border-radius: 5px;
+    color: white;
+}
+
+.heading{
+    font-size: larger;
+    color: rgb(238, 55, 55);
+}
